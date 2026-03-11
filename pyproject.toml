@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "flurry-code"
+version = "0.0.1"
+description = "Flurry Code – code intelligence toolkit for AI agents"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [
+    { name = "dimaburger" },
+]
+keywords = ["code-intelligence", "mcp", "ai-agents", "flurry"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Libraries",
+]
+
+dependencies = [
+    # "flurry-server>=0.0.1",
+    # "flurry-client>=0.0.1",
+    # "flurry-monitor>=0.0.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/deepburger/flurry-code"
+Repository = "https://github.com/deepburger/flurry-code"
+Issues = "https://github.com/deepburger/flurry-code/issues"
