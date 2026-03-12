@@ -6,9 +6,9 @@ Code intelligence toolkit for AI agents.
 
 | Package | Description | Status |
 |---------|-------------|--------|
-| [flurry-server](packages/flurry-server/) | Code intelligence MCP server | 🚧 In development |
-| [flurry-client](packages/flurry-client/) | SDK for AI agent integration | 📋 Planned |
-| [flurry-monitor](packages/flurry-monitor/) | Monitoring and observability | 📋 Planned |
+| [flurry-server](https://github.com/deepburger/flurry-code/tree/main/packages/flurry-server) | Code intelligence MCP server | 🚧 In development |
+| [flurry-client](https://github.com/deepburger/flurry-code/tree/main/packages/flurry-client) | SDK for AI agent integration | 📋 Planned |
+| [flurry-monitor](https://github.com/deepburger/flurry-code/tree/main/packages/flurry-monitor) | Monitoring and observability | 📋 Planned |
 
 ## Installation
 
